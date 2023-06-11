@@ -1,7 +1,5 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,9 +29,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/MukeshVelmurugan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707363/b63378dc-224c-47ab-9261-948618450067)
 
 ### Output:
 
+![image](https://github.com/MukeshVelmurugan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707363/1c606e12-0e4d-4703-b86d-463bd2ca9dd4)
 
 ### Name:
 ### Register Number:
