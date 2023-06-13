@@ -35,8 +35,8 @@
 
 ![image](https://github.com/MukeshVelmurugan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707363/1c606e12-0e4d-4703-b86d-463bd2ca9dd4)
 
-### Name:
-### Register Number:
+### Name: MUKESH V 
+### Register Number: 212222230086
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
